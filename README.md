@@ -1,4 +1,4 @@
-<h2 align="left">Hi im Christian, a student and software developer from Germany working at QiTech.</h2>
+<h2 align="left">Hi I am Christian, a student and software developer from Germany working at QiTech.</h2>
 
 ###
 
