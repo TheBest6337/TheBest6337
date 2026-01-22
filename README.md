@@ -39,9 +39,6 @@ You should definetly checkout my work on [QiTech's Control](https://github.com/q
 <div align="center">
   <img height="300" src="https://cdn.prod.website-files.com/5e4d3f0eab4c8c5b404b8ce5/68c14ee2006835b910b26b9a_QiTech%20Control.avif"  />
 </div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
